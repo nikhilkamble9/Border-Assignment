@@ -1,0 +1,46 @@
+.Login {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+  height: 92vh;
+  justify-content: center;
+}
+form.loginform {
+  display: flex;
+  flex-direction: column;
+  text-align: initial;
+  width: 100%;
+  align-items: center;
+}
+label {
+  width: 25%;
+}
+span {
+  display: flex;
+  margin-top: 15px;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+.login {
+  border: 1px solid lightgray;
+  border-radius: 0.25rem;
+  margin-top: 5px;
+  color: white;
+  background-color: #752fb6;
+  width: 5rem;
+  height: 2.25rem;
+}
+.register {
+  border: 1px solid lightgray;
+  border-radius: 0.25rem;
+  margin-top: 5px;
+  color: white;
+  background-color: #752fb6;
+}
+.usernew {
+  margin-top: 0.5rem;
+  margin-bottom: 0rem;
+  margin-right: 10px;
+}

@@ -1,0 +1,12 @@
+.navbar-brand {
+  color: white;
+}
+a {
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+}
+.bg-dark {
+  --bs-bg-opacity: 1;
+  background-color: #752fb6 !important;
+}

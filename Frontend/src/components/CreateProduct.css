@@ -1,0 +1,29 @@
+form.createproduct {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+  text-align: initial;
+}
+button#createlbutton {
+  width: 15%;
+  margin: auto;
+  margin-top: 10px;
+  border: 1px solid lightgray;
+  border-radius: 0.25rem;
+}
+button#createlbutton:hover {
+  background-color: lightblue;
+  color: white;
+}
+button#goback:hover {
+  background-color: lightblue;
+  color: white;
+}
+button#goback {
+  width: 5%;
+  margin: auto;
+  margin-top: 10px;
+  border: 1px solid lightgray;
+  border-radius: 0.25rem;
+}
